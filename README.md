@@ -6,11 +6,11 @@ I am a dedicated and performance-driven software developer with twenty years of 
 ## Contact Information
 Email:gerdethwickham@gmail.com
 ## Projects
-*Paper Trade 
-*Movie App
-*CSS & JS Clock
-*Weather
-*Auto Write Text
+* Paper Trade 
+* Movie App
+* CSS & JS Clock
+* Weather
+* Auto Write Text
 
 ## Portfolio layouts I like
 
